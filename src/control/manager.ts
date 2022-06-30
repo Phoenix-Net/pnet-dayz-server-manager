@@ -94,7 +94,7 @@ export class Manager {
         } else {
             this.APP_VERSION = 'UNKNOWN';
         }
-        this.log.log(LogLevel.IMPORTANT, `Starting DZSM Version: ${this.APP_VERSION}`);
+        this.log.log(LogLevel.IMPORTANT, `Starting PhoenixNet-DZSM Version: ${this.APP_VERSION}`);
     }
 
     public get config(): Config {

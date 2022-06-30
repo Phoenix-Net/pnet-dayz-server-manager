@@ -103,7 +103,7 @@ export class MonitorLoop {
             if (await this.monitor.isServerRunning()) {
                 needsRestart = false;
                 this.initialStart = false;
-                this.log.log(LogLevel.INFO, 'Server running...');
+                this.log.log(LogLevel.INFO, 'Bark Bark! Server running...');
                 this.stateListener(ServerState.STARTED);
             } else {
                 this.stateListener(ServerState.STOPPED);

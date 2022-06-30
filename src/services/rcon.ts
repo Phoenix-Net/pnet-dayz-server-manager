@@ -180,7 +180,7 @@ export class RCON implements IStatefulService {
             if (!this.connected) {
                 this.connected = true;
                 this.log.log(LogLevel.IMPORTANT, 'connected');
-                void this.sendCommand('say -1 Big Brother Connected.');
+                void this.sendCommand('say -1 OwO Notices Your Bulgy Wulgy From Across the Floor...');
             }
         });
     }
