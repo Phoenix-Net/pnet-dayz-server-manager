@@ -1,13 +1,17 @@
 # DayZ Server Manager
 
 [![Pricing](https://img.shields.io/badge/Pricing-FREE-green.svg)](https://github.com/mr-guard/dayz-server-manager/)
-[![license](https://img.shields.io/github/license/mr-guard/dayz-server-manager.svg)](https://github.com/mr-guard/dayz-server-manager/blob/master/LICENSE)
-![GitHub Workflow Status](https://github.com/mr-guard/dayz-server-manager/actions/workflows/build.yml/badge.svg)  
+[![license](https://img.shields.io/github/license/Phoenix-Net/pnet-dayz-server-manager.svg)](https://github.com/mr-guard/dayz-server-manager/blob/master/LICENSE)
+![GitHub Workflow Status](https://github.com/Phoenix-Net/pnet-dayz-server-manager/actions/workflows/build.yml/badge.svg)  
 
-[![GitHub release](https://img.shields.io/github/release/mr-guard/dayz-server-manager.svg)](https://GitHub.com/mr-guard/dayz-server-manager/releases/)
-[![GitHub commits](https://img.shields.io/github/commits-since/mr-guard/dayz-server-manager/latest.svg)](https://GitHub.com/mr-guard/dayz-server-manager/commit/)
-[![Github all releases](https://img.shields.io/github/downloads/mr-guard/dayz-server-manager/total.svg)](https://GitHub.com/mr-guard/dayz-server-manager/releases/)  
+[![GitHub release](https://img.shields.io/github/release/Phoenix-Net/pnet-dayz-server-manager.svg)](https://GitHub.com/mr-guard/dayz-server-manager/releases/)
+[![GitHub commits](https://img.shields.io/github/commits-since/Phoenix-Net/pnet-dayz-server-manager/latest.svg)](https://GitHub.com/mr-guard/dayz-server-manager/commit/)
+[![Github all releases](https://img.shields.io/github/downloads/Phoenix-Net/pnet-dayz-server-manager/total.svg)](https://GitHub.com/mr-guard/dayz-server-manager/releases/)  
 
+## PhoenixNet Ver.
+This version of the tool is forked from the original to make changes to workflows, script behavior, and web-server stylings. Please do not use this unless you know what you are doing.
+
+---
 
 This tool aims to simplify the process of setting up a DayZ Standalone Server on a Windows Server.  
 The goal was to break down the initial effort to a minimum while providing configuration to nearly all aspects of the server administration process.
